@@ -1,4 +1,2 @@
 # GPS-PRUEBAS
--Sergio inutil
--Sergio muy INUTIL
--Sergio DOWN
+-Sergio es mi padre
